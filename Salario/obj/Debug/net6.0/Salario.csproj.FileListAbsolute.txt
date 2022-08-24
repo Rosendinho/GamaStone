@@ -1,0 +1,15 @@
+N:\Stone Tech\Gama_Stone\Salario\bin\Debug\net6.0\Salario.exe
+N:\Stone Tech\Gama_Stone\Salario\bin\Debug\net6.0\Salario.deps.json
+N:\Stone Tech\Gama_Stone\Salario\bin\Debug\net6.0\Salario.runtimeconfig.json
+N:\Stone Tech\Gama_Stone\Salario\bin\Debug\net6.0\Salario.dll
+N:\Stone Tech\Gama_Stone\Salario\bin\Debug\net6.0\Salario.pdb
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.csproj.AssemblyReference.cache
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.AssemblyInfoInputs.cache
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.AssemblyInfo.cs
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.csproj.CoreCompileInputs.cache
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.dll
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\refint\Salario.dll
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.pdb
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\Salario.genruntimeconfig.cache
+N:\Stone Tech\Gama_Stone\Salario\obj\Debug\net6.0\ref\Salario.dll
