@@ -1,0 +1,5 @@
+N:\Stone Tech\Gama_Stone\Exercicio2608\obj\Debug\net6.0\Exercicio2608.csproj.AssemblyReference.cache
+N:\Stone Tech\Gama_Stone\Exercicio2608\obj\Debug\net6.0\Exercicio2608.GeneratedMSBuildEditorConfig.editorconfig
+N:\Stone Tech\Gama_Stone\Exercicio2608\obj\Debug\net6.0\Exercicio2608.AssemblyInfoInputs.cache
+N:\Stone Tech\Gama_Stone\Exercicio2608\obj\Debug\net6.0\Exercicio2608.AssemblyInfo.cs
+N:\Stone Tech\Gama_Stone\Exercicio2608\obj\Debug\net6.0\Exercicio2608.csproj.CoreCompileInputs.cache
