@@ -1,0 +1,8 @@
+N:\Stone Tech\Gama_Stone\Aula_Classes\bin\Debug\Aula_Classes.exe.config
+N:\Stone Tech\Gama_Stone\Aula_Classes\bin\Debug\Aula_Classes.exe
+N:\Stone Tech\Gama_Stone\Aula_Classes\bin\Debug\Aula_Classes.pdb
+N:\Stone Tech\Gama_Stone\Aula_Classes\obj\Debug\Aula_Classes.csproj.AssemblyReference.cache
+N:\Stone Tech\Gama_Stone\Aula_Classes\obj\Debug\Aula_Classes.csproj.SuggestedBindingRedirects.cache
+N:\Stone Tech\Gama_Stone\Aula_Classes\obj\Debug\Aula_Classes.csproj.CoreCompileInputs.cache
+N:\Stone Tech\Gama_Stone\Aula_Classes\obj\Debug\Aula_Classes.exe
+N:\Stone Tech\Gama_Stone\Aula_Classes\obj\Debug\Aula_Classes.pdb
